@@ -8,7 +8,7 @@ I love programming since I was 13 years old when I started a CG course in which 
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [giovanni.walter@outlook.com](mailto:giovanni.walter@outlook.com)
-* 🚀  I'm currently working on this awesome [Tic Tac Toe game](https://github.com/Torelli/tick-tack-toe)
+* 🚀  I'm currently working on this awesome [Restaurant Page](https://github.com/Torelli/restaurant-landing-page)
 * 🧠  I'm learning React.js and trying to decide which backend stack should I learn
 * 🤝  I'm open to collaborating on interesting projects that could make people's life better
 
