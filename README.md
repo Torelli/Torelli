@@ -29,7 +29,7 @@ I love programming since I was 13 years old when I started a CG course in which 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/edbc72808229088568aceb3e147c8518743f518a4aa679662774701ce275a796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" height="40" alt="tailwindcss logo"  />
+  <img src="https://raw.githubusercontent.com/aniftyco/awesome-tailwindcss/8df8c00bfbf040556346eff382951626b368289c/assets/logo.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
