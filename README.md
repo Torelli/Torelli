@@ -34,7 +34,8 @@ I love programming since I was 13 years old when I started a CG course in which 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" height="35" alt="golang logo"  />
 </div>
 
 ###
