@@ -11,7 +11,7 @@ I love programming since I was 13 years old when I started a CG course in which 
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [giovanni.walter@outlook.com](mailto:giovanni.walter@outlook.com)
-* 🧠  I'm learning React.js and Java Spring Boot
+* 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on interesting projects that could make people's life better
 
 <h3 align="left">🛠 Language and tools</h3>
