@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://app.daily.dev/giovannitorelli"><img src="https://api.daily.dev/devcards/v2/1yCsFDOohQEh9fKQX9zMZ.png?r=y7c&type=wide" width="652" alt="Giovanni Torelli's Dev Card"/></a>
+<a href="https://app.daily.dev/giovannitorelli"><img src="https://api.daily.dev/devcards/v2/1yCsFDOohQEh9fKQX9zMZ.png?type=wide&r=zl4" width="652" alt="Giovanni Torelli's Dev Card"/></a>
 <br>
 <a href="https://www.github.com/Torelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/giovanni-torelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
