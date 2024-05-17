@@ -1,10 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Giovanni Torelli 
+<p align="center">
+<a href="https://app.daily.dev/giovannitorelli"><img src="https://api.daily.dev/devcards/v2/1yCsFDOohQEh9fKQX9zMZ.png?r=y7c&type=wide" width="652" alt="Giovanni Torelli's Dev Card"/></a>
+<br>
 <a href="https://www.github.com/Torelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/giovanni-torelli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Torelli.Torelli&"  />
-========================================================================================================================================
+</p>
 
-Fullstack Developer | Computer Technician
+#
+Software Developer 
 ----------------------------------------
 
 I love programming since I was 13 years old when I started a CG course in which I learned the basics of web development and programming for Flash games. After that I decided to apply for a technical school to learn it more thorough, and even went to a public University for Computer Science. Unfortunately, since our life is not a straight line and at the time I still didn't know what path to choose for my carrer I decided to change my course to Psychology, which in one side helped me a lot to see the potential of good things that we can do with programming and problem solving skills when combined with a deep understanding of human behavior, making this my starting point in my path to revisit this great universe of software engineering. After taking a break for a few years in programming I decided to return to the field. This time more wiser and mature, I choose to focus in what I used to be pretty good at, which is web development.
